@@ -1,6 +1,9 @@
-仁宣之治
+#import <UIKit/UIKit.h>
+#import "AppDelegate.h"
 
-进入盛事
-
-盛世转衰
+int main(int argc, char * argv[]) {
+	NSString *str1 = @"仁宣之治";
+	NSString *str2 = @"进入盛事";
+	NSString *str3 = @"盛世转衰";
+}
 
